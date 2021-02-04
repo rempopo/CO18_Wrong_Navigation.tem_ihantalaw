@@ -1,0 +1,1 @@
+[convoy, 30, 30, false] spawn TOV_fnc_SimpleConvoy;
