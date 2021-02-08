@@ -72,7 +72,7 @@ kit_nor_sl = [
 	["<BACKPACK ITEMS >> ",[]]
 ];
 kit_nor_ftl = [
-	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","cwr3_i_backpack","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
+	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","CUP_B_AlicePack_OD","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_G3A3_ris","CUP_20Rnd_762x51_G3",["","","",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Browning_HP","CUP_13Rnd_9x19_Browning_HP",["","","",""]],
@@ -82,7 +82,7 @@ kit_nor_ftl = [
 	["<BACKPACK ITEMS >> ",[["SmokeShellGreen",2],["SmokeShellRed",2],["SmokeShellYellow",2]]]
 ];
 kit_nor_mg = [
-	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","cwr3_i_backpack","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
+	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","CUP_B_AlicePack_OD","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
 	["<PRIMARY WEAPON >>  ","CUP_lmg_MG3_rail","CUP_120Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M",["","","",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Browning_HP","CUP_13Rnd_9x19_Browning_HP",["","","",""]],
@@ -92,7 +92,7 @@ kit_nor_mg = [
 	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",3]]]
 ];
 kit_nor_gr = [
-	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","cwr3_i_backpack","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
+	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","CUP_B_AlicePack_OD","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_G3A3_ris","CUP_20Rnd_762x51_G3",["","","",""]],
 	["<LAUNCHER WEAPON >>  ","CUP_launch_M72A6_Loaded","CUP_M72A6_M",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Browning_HP","CUP_13Rnd_9x19_Browning_HP",["","","",""]],
@@ -102,7 +102,7 @@ kit_nor_gr = [
 	["<BACKPACK ITEMS >> ",[["ACE_Clacker",1],["ATMine_Range_Mag",2],["DemoCharge_Remote_Mag",3]]]
 ];
 kit_nor_r = [
-	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","cwr3_i_backpack","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
+	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_Winter","CUP_V_B_ALICE","CUP_B_AlicePack_OD","CUP_H_PMC_Beanie_Khaki","rhsusf_shemagh2_grn"],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_G3A3_ris","CUP_20Rnd_762x51_G3",["","","",""]],
 	["<LAUNCHER WEAPON >>  ","CUP_launch_M72A6_Loaded","CUP_M72A6_M",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Browning_HP","CUP_13Rnd_9x19_Browning_HP",["","","",""]],
